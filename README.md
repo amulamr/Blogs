@@ -1,2 +1,2 @@
 # Blogs
-amul Sharma
+Neha Tripathi
